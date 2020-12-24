@@ -21,3 +21,5 @@ kordinatına git ve kordinatın RGB rengini kırmızı yap. x2 += 1 ile de x2'ni
 ![Ekran Resmi 2020-12-24 23 54 14](https://user-images.githubusercontent.com/25556230/103106528-5c4b6780-4647-11eb-8e36-1f5731d7f6df.png)
 
 Kodları incelerseniz bu yöntemi diğer bölgelerde de kullandık. 
+![Ekran Resmi 2020-12-25 00 24 42](https://user-images.githubusercontent.com/25556230/103106561-a2a0c680-4647-11eb-9c12-2dbba0d63707.png)
+

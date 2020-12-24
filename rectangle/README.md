@@ -11,12 +11,13 @@ kordinatına git ve kordinatın RGB rengini kırmızı yap. x2 += 1 ile de x2'ni
         px[x1,x2] = COLOR
         x2 += 1
 ```
-image
- 
+![Ekran Resmi 2020-12-24 23 53 55](https://user-images.githubusercontent.com/25556230/103106527-59e90d80-4647-11eb-9fac-7812256ed8d8.png) 
 * Bu kod ise, soldan sağa doğru bir çerçeve çizer.
 ```
     while int(x1) <= int(y1):
         px[x1,y1] = COLOR
         x1 += 1
 ```
+![Ekran Resmi 2020-12-24 23 54 14](https://user-images.githubusercontent.com/25556230/103106528-5c4b6780-4647-11eb-8e36-1f5731d7f6df.png)
+
 Kodları incelerseniz bu yöntemi diğer bölgelerde de kullandık. 
